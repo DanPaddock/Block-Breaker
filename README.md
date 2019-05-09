@@ -1,5 +1,4 @@
-# So just as a little in-sight before I say what scripts to review, I made a
-# basic block-breaker game with a start-screen, 2 different levels and replay functionality.
+So just as a little in-sight before I say what scripts to review, I made a basic block-breaker game with a start-screen, 2 different levels and replay functionality.
 
 Scripts to Review
 ====================
