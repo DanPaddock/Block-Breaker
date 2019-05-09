@@ -7,9 +7,6 @@ SceneLoader
 ---------------------
 This was used to handle the transition between different scenes in the game, such as Start, Level1, Level2 and GameOver.
 
-SceneLoader
----------------------
-
 ScriptBlock
 ---------------------
 This script handled all interactions with the blocks, such as changing the sprite depending on the damage taken. 
